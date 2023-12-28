@@ -1,0 +1,14 @@
+C:\Users\nicos\Documents\programmes C#\Multytool\bin\Debug\Multytool.exe.config
+C:\Users\nicos\Documents\programmes C#\Multytool\bin\Debug\Multytool.exe
+C:\Users\nicos\Documents\programmes C#\Multytool\bin\Debug\Multytool.pdb
+C:\Users\nicos\Documents\programmes C#\Multytool\bin\Debug\Guna.UI2.dll
+C:\Users\nicos\Documents\programmes C#\Multytool\obj\Debug\Multytool.csproj.AssemblyReference.cache
+C:\Users\nicos\Documents\programmes C#\Multytool\obj\Debug\Multytool.Form1.resources
+C:\Users\nicos\Documents\programmes C#\Multytool\obj\Debug\Multytool.Properties.Resources.resources
+C:\Users\nicos\Documents\programmes C#\Multytool\obj\Debug\Multytool.csproj.GenerateResource.cache
+C:\Users\nicos\Documents\programmes C#\Multytool\obj\Debug\Multytool.csproj.CoreCompileInputs.cache
+C:\Users\nicos\Documents\programmes C#\Multytool\obj\Debug\Multytool.csproj.CopyComplete
+C:\Users\nicos\Documents\programmes C#\Multytool\obj\Debug\Multytool.exe
+C:\Users\nicos\Documents\programmes C#\Multytool\obj\Debug\Multytool.pdb
+C:\Users\nicos\Documents\programmes C#\Multytool\obj\Debug\Multytool.Form2.resources
+C:\Users\nicos\Documents\programmes C#\Multytool\obj\Debug\Multytool.Form3.resources
